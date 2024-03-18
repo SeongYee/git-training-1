@@ -1,6 +1,5 @@
-# Created by https://www.toptal.com/developers/gitignore/api/python
-# Edit at https://www.toptal.com/developers/gitignore?templates=python
 
+<<<<<<< HEAD
 ### Python ###
 # Byte-compiled / optimized / DLL files
 no.txt
@@ -175,3 +174,5 @@ poetry.toml
 # LSP config files
 pyrightconfig.json
 # End of https://www.toptal.com/developers/gitignore/api/python
+=======
+>>>>>>> 4adf679c24dc96a538adefccb7e3fb359ffa8d2d
